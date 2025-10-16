@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Job Aggregator Prompt Generator",
+  "description": "An application to generate a detailed prompt for a Gemini-based job aggregation agent. Users input their job preferences and resume, and the app uses Gemini to extract skills and construct a comprehensive prompt for finding job matches.",
+  "requestFramePermissions": []
+}
